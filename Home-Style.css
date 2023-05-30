@@ -1,0 +1,138 @@
+.Top {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #F3F7F0;
+}
+
+.Home-Button {
+    display: flex;
+    flex-direction: row;
+    color: #FF5447;
+    font-family: 'Playfair Display', serif;
+    border: 0;
+    background-color: transparent;
+}
+
+.Women-Button {
+    display: flex;
+    flex-direction: row;
+    color: #FF5447;
+    font-family: 'Playfair Display', serif;
+    border: 0;
+    background-color: transparent;
+}
+
+.Submit-Button {
+    display: flex;
+    flex-direction: row;
+    color: #FF5447;
+    font-family: 'Playfair Display', serif;
+    border: 0;
+    background-color: transparent;
+}
+
+.Home-Button:hover {
+    color: #7BAD5C;
+}
+
+.Women-Button:hover {
+    color: #7BAD5C;
+}
+
+.Submit-Button:hover {
+    color: #7BAD5C
+}
+
+.Title {
+
+    font-family: 'Castoro Titling';
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+    color: #272727;
+    font-size: 50px;
+}
+
+.Home-Image {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 5%;
+    background-color: #F3F7F0;
+}
+
+.img-fluid {
+    padding-top: 1%;
+    background-color: #F3F7F0;
+}
+
+a {
+    margin-top: -15px;
+    margin-left: 50%;
+}
+
+p {
+    background-color: #FF5447;
+}
+
+#Middle {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #F3F7F0;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 10%;
+    padding-top: 5%;
+}
+
+#About-Us {
+    font-family: 'Playfair Display', serif;
+    background-image: url(./Images/garli_hands.jpeg);
+    color: #272727;
+    padding: 13.95%;
+    font-size: 70px;
+}
+
+
+.About-Us-Text {
+    display: flex;
+    align-items: center;
+    font-family: 'Manrope', sans-serif;
+    background-color: #FF5447;
+    padding: 5.55%;
+    color: #F3F7F0;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+.Footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color:#272727;
+}
+
+.Footer-Title {
+    font-family: 'Castoro Titling';
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 2%;
+    color: #F3F7F0;
+    font-size: 50px;
+}
+
+#coming-soon {
+
+    width: 30%;
+    padding: 5%;
+    align-items: center;
+}
+

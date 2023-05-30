@@ -1,0 +1,146 @@
+
+
+.Top { 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #F3F7F0;
+}
+
+.Home-Button {
+    display: flex;
+    flex-direction: row;
+    color: #FF5447;
+    font-family: 'Playfair Display', serif;
+    border: 0;
+    background-color: transparent;
+}
+
+.More {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -15px;
+}
+
+
+html {
+    scroll-behavior: smooth;
+   }
+
+.Women-Button {
+    display: flex;
+    flex-direction: row;
+    color: #FF5447;
+    font-family: 'Playfair Display', serif;
+    border: 0;
+    background-color: transparent;
+}
+
+.Submit-Button {
+    display: flex;
+    flex-direction: row;
+    color: #FF5447;
+    font-family: 'Playfair Display', serif;
+    border: 0;
+    background-color: transparent;
+}
+
+.Home-Button:hover {
+    color: #7BAD5C;
+}
+
+.Women-Button:hover {
+    color: #7BAD5C;
+}
+
+.Submit-Button:hover {
+    color: #7BAD5C
+}
+
+.Title {
+
+    font-family: 'Castoro Titling';
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+    color: #272727;
+    font-size: 50px;
+}
+
+#Women {
+    padding: 10%;
+    background-color: #F3F7F0;
+}
+
+.card-title {
+    font-family: 'Castoro Titling';
+    color: #FF5447;
+}
+
+.card-title:hover {
+    font-family: 'Castoro Titling';
+    color: #7BAD5C;
+}
+
+
+.Introduction {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Manrope', sans-serif;
+    font-size: 17px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 7%;
+    padding-bottom: 5%;
+    text-align: center;
+    color: #F3F7F0;
+    background-color: #272727;
+
+}
+
+a {
+    position: absolute;
+    margin-top: -10x;
+}
+
+.Footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color:#272727;
+}
+
+.Footer-Title {
+    font-family: 'Castoro Titling';
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 2%;
+    color: #F3F7F0;
+    font-size: 50px;
+}
+
+#coming-soon {
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-top: 12%;
+    padding-bottom: 15%;
+    background-color: #F3F7F0;
+}
+
+
+.go-up {
+    margin-top: -10%;
+    margin-left: 49%;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 5% ;
+    margin-bottom: -5%;
+}

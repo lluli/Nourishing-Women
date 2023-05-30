@@ -1,0 +1,197 @@
+
+.Top {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #F3F7F0;
+}
+
+.Home-Button {
+    display: flex;
+    flex-direction: row;
+    color: #FF5447;
+    font-family: 'Playfair Display', serif;
+    border: 0;
+    background-color: transparent;
+}
+
+.Women-Button {
+    display: flex;
+    flex-direction: row;
+    color: #FF5447;
+    font-family: 'Playfair Display', serif;
+    border: 0;
+    background-color: transparent;
+}
+
+.Submit-Button {
+    display: flex;
+    flex-direction: row;
+    color: #FF5447;
+    font-family: 'Playfair Display', serif;
+    border: 0;
+    background-color: transparent;
+}
+
+.Home-Button:hover {
+    color: #7BAD5C;
+}
+
+.Women-Button:hover {
+    color: #7BAD5C;
+}
+
+.Submit-Button:hover {
+    color: #7BAD5C
+}
+
+.Title {
+
+    font-family: 'Castoro Titling';
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+    color: #272727;
+    font-size: 50px;
+}
+
+.Home-Image {
+    display: flex;
+    flex-direction: column;
+    background-color: #F3F7F0;
+}
+
+.img-fluid {
+    padding-top: 1%;
+    background-color: #F3F7F0;
+}
+
+a {
+    margin-top: -15px;
+    margin-left: 50%;
+}
+
+
+
+#Intro-Title {
+    font-family: 'Castoro Titling';
+    background-color: #F3F7F0;
+    color: #FF5447;
+    text-align: center;
+    font-size: 75px;
+    padding-top: 2%;
+}
+
+#Intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Manrope', sans-serif;
+    text-align: center;
+    color: #FF5447;
+    background-color: #F3F7F0;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 15px;
+}
+
+#Recipe {
+    display: flex;
+    flex-direction: row;
+    justify-content:baseline;
+    background-color: #F3F7F0;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+
+.Ingredients-Title{
+    font-family: 'Playfair Display', serif;
+    color: #272727;
+    font-size: 50px;
+    color: #F3F7F0;
+    background-color: #272727;
+    padding-bottom: 3%;
+}
+
+.Ingredients {
+    font-family: 'Manrope', sans-serif;
+    padding: 5.55%;
+    color: #F3F7F0;
+    width: 1000px;
+    background-color: #272727;
+    font-size: 15px;
+}
+
+.Method-Title {
+    font-family: 'Playfair Display', serif;
+    color: #272727;
+    font-size: 50px;
+    color: #F3F7F0;
+    background-color: #FF5447;
+    padding-bottom: 3%;
+}
+
+.Method {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Manrope', sans-serif;
+    padding: 5%;
+    color: #F3F7F0;
+    background-color: #FF5447;
+    font-size: 15px;
+}
+
+.Method.p {
+    font-family: 'Manrope', sans-serif;
+    padding: 5.55%;
+    color: #F3F7F0;
+    font-size: 20px;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+h5 {
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+
+.Footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color:#272727;
+}
+
+.Footer-Title {
+    font-family: 'Castoro Titling';
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 2%;
+    color: #F3F7F0;
+    font-size: 50px;
+}
+
+#coming-soon {
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-top: 12%;
+    padding-bottom: 15%;
+    background-color: #F3F7F0;
+}
+
+
+
+.go-up {
+    margin-top: 1%
+}
+
+
